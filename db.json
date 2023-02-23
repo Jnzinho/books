@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter Fabric Edition",
+      "id": 1
+    },
+    {
+      "title": "D&D 5e",
+      "id": 2
+    }
+  ]
+}
